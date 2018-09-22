@@ -50,6 +50,6 @@ Please type Y for YES or N for NO.
     elif calc_again.upper() == 'N':
         print('Thanks for using this Calculator!\nThis Calculator Made By Shafiul Kayem! \nSee you later.')
     else:
-        again()
+        Again()
 
 Calculator()
